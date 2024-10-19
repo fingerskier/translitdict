@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/translitdict/static/css/main.cc584854.css",
+    "main.js": "/translitdict/static/js/main.05a78269.js",
+    "static/js/453.cdaddd04.chunk.js": "/translitdict/static/js/453.cdaddd04.chunk.js",
+    "index.html": "/translitdict/index.html",
+    "main.cc584854.css.map": "/translitdict/static/css/main.cc584854.css.map",
+    "main.05a78269.js.map": "/translitdict/static/js/main.05a78269.js.map",
+    "453.cdaddd04.chunk.js.map": "/translitdict/static/js/453.cdaddd04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc584854.css",
+    "static/js/main.05a78269.js"
+  ]
+}
